@@ -25,21 +25,6 @@
 * JDK：1.8
 * 数据库：MySQL 8.0.25
 
-# 三、项目主要功能展示
-## 登录页面
-![登录页面](https://i.loli.net/2021/08/24/KeErWTpAOBfG6uD.png)
-
-## 管理员页面
-![管理员主页](https://i.loli.net/2021/08/24/PvU7Ln2pKwxRCgG.png)
-![会员管理页面](https://i.loli.net/2021/08/24/mZq9Dw4gkRvTzx6.png)
-![添加会员页面](https://i.loli.net/2021/08/24/uzlkQUxq6m5j8X7.png)
-
-## 会员页面
-![个人信息页面](https://i.loli.net/2021/08/24/IwPk9bTi6SpqWnz.png)
-![我的课程页面](https://i.loli.net/2021/08/24/NlAZnoCMO9uJm4z.png)
-
-# 四、总结
-第一次做项目，有很多想实现的功能碍于个人能力不够无法实现，基础也不牢固，继续保持学习。写本文的同时也是对这一阶段学习的总结。
 
 
 
